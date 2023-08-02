@@ -204,11 +204,17 @@
 
 <h2 align="center">Some stats:</h2>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OskarProgrammer&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OskarProgrammer&show_icons=true&count_private=true&hide_border=true&theme=dark&background=000000" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OskarProgrammer&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OskarProgrammer&hide_border=true&layout=compact&theme=dark&background=000000" align="center" /></div>  
+
+<h2 align="center">Streak:</h2>
+
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=OskarProgrammer&layout=compact&hide_border=true&theme=dark" alt="oskarprogrammer" align="center" /></div>
 
 ###
 
 <h2 align="center">My activity:</h2>
+
+
 
