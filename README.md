@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OskarProgrammer, I am 18 years old man from Poland.
+- 👋 Hi, I’m Oskar, I am 18 years old man from Poland.
 
   ![polish-flag-8](https://github.com/OskarProgrammer/OskarProgrammer/assets/130141327/7b5aa5fd-03ab-4f52-ba62-4c8d002559fa)
 
