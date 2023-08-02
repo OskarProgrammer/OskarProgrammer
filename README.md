@@ -1,16 +1,7 @@
-<div align="center">
-  <img height="300" src="https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67"  />
-</div>
+![Header](./github-header-image1.png)
 
-###
-
-<h1 align="center">Hi 👋, I am Oskar</h1>
-
-###
-
-<p align="center">😎😎😎 A passionate software developer from Poland 😎😎😎</p>
-
-###
+<h1 align="center">👋😎😎 I love coding 😎😎👋</h1>
+<p align=center> I can speak Polish and English very well, but I can also speak some German! <br> If you have got any questions or ideas for projects, write to me!</p>
 
 <h2 align="center">Tools I use:</h2>
 
@@ -221,8 +212,3 @@
 
 
 <br><br><br>
-
-
-<div align="center">
-  <img height="300" src="https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67"  />
-</div>
