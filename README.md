@@ -21,6 +21,7 @@
     Python code in one line -> Christian Mayer
   
 
+
 - I use code editor Visual Studio Code to create my projects and recently I am a
   linux user, which makes my work much easier, especially the BASH terminal.
   For java programming I use jetbrains IDE IntelliJ IDEA.
@@ -33,19 +34,27 @@
 
   ![b4q69mrtlgi4qgcplkeq](https://github.com/OskarProgrammer/OskarProgrammer/assets/130141327/ad53a1fe-08cb-41bd-9691-70143036d180)
 
+
+
 - 👀 I’m interested in everything about programming, from creating easy scripts to building advanced communication systems or servers.
   
   I’m currently learning cybersecurity, algorithms and asyncio programming.
+
+
 
   
 - In the future I really want to learn:
   
   Assembly language, React.js, Java Spring.
 
+
+
   
 - I already know the basics of:
   
   C++, C#, Java, JavaScript, Julia, Haskell, Assembly, Ruby, BASH, Linux, Structured Query Language, Go lang.
+
+
 
 
 - I know advanced structures of:
