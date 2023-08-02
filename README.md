@@ -204,13 +204,13 @@
 
 <h2 align="center">Some stats:</h2>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OskarProgrammer&show_icons=true&count_private=true&hide_border=true&theme=dark&background=000000" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OskarProgrammer&show_icons=true&count_private=false&card_width=350px&text_bold=false&hide_title=true&border_radius=50px&hide_rank=true&hide_border=true&theme=dark&background=000000" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OskarProgrammer&hide_border=true&layout=compact&theme=dark&background=000000" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OskarProgrammer&hide_border=true&layout=normal&hide=css,html&border_radius=50px&hide_title=true&langs_count=6&theme=dark&background=000000" align="center" /></div> 
 
 <h2 align="center">Streak:</h2>
 
-<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=OskarProgrammer&layout=compact&hide_border=true&theme=dark" alt="oskarprogrammer" align="center" /></div>
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=OskarProgrammer&border_radius=50px&layout=compact&hide_border=true&theme=dark" alt="oskarprogrammer" align="center" /></div>
 
 ###
 
