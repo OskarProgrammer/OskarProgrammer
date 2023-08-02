@@ -204,8 +204,11 @@
 
 <h2 align="center">Some stats:</h2>
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OskarProgrammer&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OskarProgrammer&hide_border=true&layout=compact" align="center" /></div>  
+
 ###
 
-<h2 align="center">My Activity:</h2>
+<h2 align="center">My activity:</h2>
 
-###
