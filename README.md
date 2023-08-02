@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="center">Languages I know:</h2>
+<h2 align="center">Languages I know (on the beginner or advanced):</h2>
 
 ###
 
