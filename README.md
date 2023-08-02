@@ -21,7 +21,7 @@
   Editor: Visual Studio Code
   IDE: IntelliJ IDEA
 
-  I love ![b4q69mrtlgi4qgcplkeq](https://github.com/OskarProgrammer/OskarProgrammer/assets/130141327/ad53a1fe-08cb-41bd-9691-70143036d180)
+  ![b4q69mrtlgi4qgcplkeq](https://github.com/OskarProgrammer/OskarProgrammer/assets/130141327/ad53a1fe-08cb-41bd-9691-70143036d180)
 
 
   
@@ -35,7 +35,7 @@
 - C++, C#, Java, JavaScript, Julia, Haskell, Assembly, Ruby, BASH, Linux, Structured Query Language, Go lang.
 
 - I know advanced structures of:
-- Python, C.
+  \nPython, C.
 
 
 
