@@ -1,7 +1,7 @@
 ![Header](./github-header-image1.png)
 
 <h1 align="center">👋😎😎 I love coding 😎😎👋</h1>
-<p align=center> I can speak Polish, English very well and and a bit of German! <br> If you have got any questions or ideas for projects, write to me!</p>
+<p align=center> I can speak Polish, English very well and a bit of German! <br> If you have got any questions or ideas for projects, write to me!</p>
 
 <h2 align="center">Tools I use:</h2>
 
