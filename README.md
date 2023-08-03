@@ -1,7 +1,7 @@
 ![Header](./github-header-image1.png)
 
 <h1 align="center">👋😎😎 I love coding 😎😎👋</h1>
-<p align=center> I can speak Polish and English very well, but I can also speak some German! <br> If you have got any questions or ideas for projects, write to me!</p>
+<p align=center> I can speak Polish, English very well and and a bit of German! <br> If you have got any questions or ideas for projects, write to me!</p>
 
 <h2 align="center">Tools I use:</h2>
 
@@ -212,3 +212,7 @@
 
 
 <br><br><br>
+
+<div align=center>
+  <img align="center" src="https://media.tenor.com/OPpKEHBtRLoAAAAC/poland-flag-gif.gif" width=1080px height=300px />
+</div>
