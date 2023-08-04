@@ -187,7 +187,7 @@
         src="http://github-readme-streak-stats.herokuapp.com?user=OskarProgrammer&border_radius=25px&layout=compact&hide_border=true&theme=dark"
         alt="oskarprogrammer" align="center" /></div>
 
-<h2 align="center">My activity:</h2>
+<h2 align="center">My activity :</h2>
 <div align=center>
     <img align="center"
         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OskarProgrammer&theme=dark"
